@@ -15,7 +15,7 @@ class PdfFinder(Skill):
 
             await event.respond(link)
 
-    async def get_pdf(self, room_id='!hOWKIuAnWycnhVWACL:matrix.org'):
+    async def get_pdf(self, room_id):
         connector = self.opsdroid.get_connector('matrix').connection
         print(await connector.joined_rooms())
         state = await connector.room_get_state(room_id)
@@ -36,13 +36,13 @@ class PdfFinder(Skill):
                     url = dict['m.file']['url']
                     name = dict['m.file']['name']
 
-                    url = url[17:]
+                    for i in range(len(url)):
+                        if url[i] == '!':
+                            url = url[i:]
 
                     return url, name
                 elif isinstance(dict[item], Dict):
                     return await self.file_search(dict[item])
-                else:
-                    return
         except:
             print('could not find')
 

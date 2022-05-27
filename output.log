@@ -1697,3 +1697,36 @@ DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
 DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:32:00 2022.
 DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
 DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+ERROR opsdroid.connector.matrix.connector Error while connecting: Invalid password (status code M_FORBIDDEN)
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor

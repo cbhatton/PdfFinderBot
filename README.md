@@ -7,7 +7,7 @@ other purposes
 ## Setup
     
     1. clone this code from git hub
-    2. install requirements
+    2. install requirements using pip install opsdroid[all]
     3. create a matrix account for your bot 
        https://app.element.io/?pk_vid=1653610330189fc0#/register
        and put the username and password in the configuration.yaml

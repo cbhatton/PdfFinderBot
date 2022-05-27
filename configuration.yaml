@@ -1,9 +1,9 @@
 connectors:
   matrix:
-    mxid: {YourMxID}
-    password: {YourPassword}
+    mxid: YOUR_MX_ID
+    password: YOUR_PASSWORD
     rooms:
-      main: {'#example-room:matrtrix.org'}
+      main: /#EXAMPLE-ROOM:MATRIX.ORG
     nick: "Pdf Buddy"
     homeserver: "https://matrix.org"
 
