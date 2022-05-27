@@ -1,0 +1,28 @@
+connectors:
+  matrix:
+    mxid: "@rick_deck2049:matrix.org"
+    password: "replicant2049"
+    rooms:
+      main: '#test-deck-bot:matrix.org'
+    nick: "Pdf Buddy"
+    homeserver: "https://matrix.org"
+
+#    store_path: "./store.txt"
+
+welcome-message: true
+
+logging:
+  console: false
+  level: debug
+  path: ./output.log
+  rich: true
+
+parsers:
+  regex:
+    enabled: true
+
+skills:
+  no-cache: true
+  pdf-finder:
+    path: ./skills/pdf_finder.py
+

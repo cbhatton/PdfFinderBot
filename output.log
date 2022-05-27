@@ -1,0 +1,1694 @@
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+CRITICAL opsdroid.core No skills in configuration, at least 1 required
+INFO opsdroid.core Exiting application with return code 1.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+ERROR opsdroid.loader Failed to install from .pdf_finder.py.
+ERROR opsdroid.loader Install of pdf-finder failed.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+ERROR opsdroid.loader Failed to load skill: opsdroid_modules.skill.pdf-finder.
+ERROR opsdroid.loader Module pdf-finder failed to import.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 1 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+CRITICAL opsdroid.core No skills in configuration, at least 1 required
+INFO opsdroid.core Exiting application with return code 1.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+CRITICAL opsdroid.core No skills in configuration, at least 1 required
+INFO opsdroid.core Exiting application with return code 1.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 17, in start
+    await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 12, in get_pdf
+    for item in state:
+TypeError: 'RoomGetStateResponse' object is not iterable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=f)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 17, in start
+    await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 12, in get_pdf
+    for item in state:
+TypeError: 'RoomGetStateResponse' object is not iterable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 20, in start
+    await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 14, in get_pdf
+    for i in item['content'][c]:
+TypeError: 'int' object is not iterable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=l)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 11:12:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 17, in start
+    await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 13, in get_pdf
+    self.file_search(dict)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 26, in file_search
+    return self.file_search(dict[item])
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 26, in file_search
+    return self.file_search(dict[item])
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 25, in file_search
+    print(dict[item])
+TypeError: string indices must be integers
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=l)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=k)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 31, in start
+    await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 24, in get_pdf
+    link = 'https//:matrix.org' + item[0] + item[1]
+TypeError: 'NoneType' object is not subscriptable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 12:09:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:30:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 12, in ask_pdf
+    await event.respond(link)
+  File "c:\python\python39\lib\site-packages\opsdroid\events.py", line 286, in respond
+    return await super().respond(response)
+  File "c:\python\python39\lib\site-packages\opsdroid\events.py", line 142, in respond
+    event.user = event.user or self.user
+AttributeError: 'coroutine' object has no attribute 'user'
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:31:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:32:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 10, in ask_pdf
+    link = await self.get_pdf()
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 24, in get_pdf
+    link = 'https//:matrix.org' + item[0] + item[1]
+TypeError: 'NoneType' object is not subscriptable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:33:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:34:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:35:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:36:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:37:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:38:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:39:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:40:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:43:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:44:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:45:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:46:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:47:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:48:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:48:58 2022.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:49:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:50:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:51:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:52:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:53:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:54:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:55:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:56:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:57:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:58:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 13:59:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:00:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:01:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:02:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:03:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:04:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 14:05:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:21:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:22:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!askfjas)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:23:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!ISvDMXKgndEMFuRMBj:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:24:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:25:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:26:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:27:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:28:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:29:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!ISvDMXKgndEMFuRMBj:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 10, in ask_pdf
+    if event.message < 10:
+AttributeError: 'Message' object has no attribute 'message'
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:30:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:31:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!ISvDMXKgndEMFuRMBj:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 10, in ask_pdf
+    if event.text < 10:
+TypeError: '<' not supported between instances of 'str' and 'int'
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!ISvDMXKgndEMFuRMBj:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 13, in ask_pdf
+    link = await self.get_pdf(event.text)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 27, in get_pdf
+    link = 'matrix.org/_matrix/media/v3/download/matrix.org/' + item[0] + '/' + item[1]
+TypeError: 'NoneType' object is not subscriptable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:32:00 2022.
+DEBUG asyncio Using proactor: IocpProactor
+INFO opsdroid.logging ========================================
+INFO opsdroid.logging Started opsdroid v0.26.0.
+INFO opsdroid ========================================
+INFO opsdroid You can customise your opsdroid by modifying your configuration.yaml.
+INFO opsdroid Read more at: http://opsdroid.readthedocs.io/#configuration
+INFO opsdroid Watch the Get Started Videos at: http://bit.ly/2fnC0Fh
+INFO opsdroid Install Opsdroid Desktop at: 
+https://github.com/opsdroid/opsdroid-desktop/releases
+INFO opsdroid ========================================
+DEBUG asyncio Using proactor: IocpProactor
+DEBUG opsdroid.loader Loaded loader.
+DEBUG opsdroid.loader Loading modules from config...
+WARNING opsdroid.loader No databases in configuration. This will cause skills which store things in memory to lose data when opsdroid is restarted.
+DEBUG opsdroid.loader Loading parsers modules...
+DEBUG opsdroid.loader Loaded parsers: opsdroid.parsers.regex.
+DEBUG opsdroid.loader Loading skill modules...
+DEBUG opsdroid.loader Updating no-cache...
+DEBUG opsdroid.loader b'remote: Repository not found.'
+DEBUG opsdroid.loader b"fatal: repository 'https://github.com/opsdroid/skill-no-cache.git/' not found"
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.no-cache.
+DEBUG opsdroid.loader Removing cache for local module C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder, set 'no-cache: false' to disable this.
+DEBUG opsdroid.loader Installing pdf-finder...
+DEBUG opsdroid.loader Installed pdf-finder to C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder.
+DEBUG opsdroid.loader Couldn't find the file requirements.txt, skipping.
+DEBUG opsdroid.loader Loaded skill: opsdroid_modules.skill.pdf-finder.
+DEBUG opsdroid.loader Loading connector modules...
+DEBUG opsdroid.loader Loaded connector: opsdroid.connector.matrix.
+DEBUG opsdroid.core Loaded 2 skills.
+INFO opsdroid.core Opsdroid is now running, press ctrl+c to exit.
+INFO opsdroid.web Started web server on http://0.0.0.0:8080
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!ISvDMXKgndEMFuRMBj:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+ERROR opsdroid.core Exception when running skill 'pdf-finder'.
+Traceback (most recent call last):
+  File "c:\python\python39\lib\site-packages\opsdroid\core.py", line 478, in run_skill
+    return await skill(event)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 14, in ask_pdf
+    link = await self.get_pdf(event.text)
+  File "C:\Users\hatto\AppData\Local\opsdroid_modules\opsdroid\opsdroid_modules\skill\pdf-finder\__init__.py", line 28, in get_pdf
+    link = 'matrix.org/_matrix/media/v3/download/matrix.org/' + item[0] + '/' + item[1]
+TypeError: 'NoneType' object is not subscriptable
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:33:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:34:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:35:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.core Parsing input: <opsdroid.events.Message(text=!hOWKIuAnWycnhVWACL:matrix.org)>.
+DEBUG opsdroid.core Processing parsers...
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:36:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:37:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:38:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:39:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:40:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:41:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:42:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:43:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:44:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:45:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:46:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:47:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:48:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:49:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:50:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:51:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:52:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:53:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:54:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:55:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:56:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:57:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:58:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 18:59:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:00:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:01:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:02:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:03:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:04:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:05:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:06:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:07:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:08:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:09:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:10:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:11:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:12:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:13:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:14:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:15:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:16:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:17:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:18:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:19:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:20:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:21:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:22:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:23:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:24:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:25:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:26:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:27:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:28:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:29:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:30:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
