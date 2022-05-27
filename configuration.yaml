@@ -1,9 +1,9 @@
 connectors:
   matrix:
-    mxid: "@rick_deck2049:matrix.org"
-    password: "replicant2049"
+    mxid: {YourMxID}
+    password: {YourPassword}
     rooms:
-      main: '#test-deck-bot:matrix.org'
+      main: {'#example-room:matrtrix.org'}
     nick: "Pdf Buddy"
     homeserver: "https://matrix.org"
 

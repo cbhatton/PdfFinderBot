@@ -25,7 +25,7 @@ other purposes
 
     5. run the bot using 'opsdroid start' in the terminal
 
-##Use
+## Use
 
 to grab a pdf from a room you'll need the internal room id. you can find this in settings > advanced > internal room id
 once you got this code, just paste it in chat in the room that the bot is in and it will 
