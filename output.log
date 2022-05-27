@@ -1692,3 +1692,8 @@ DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:29:00 202
 DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
 DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:30:00 2022.
 DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:31:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG opsdroid.parsers.crontab Running crontab skills at Thu May 26 19:32:00 2022.
+DEBUG opsdroid.connector.matrix.connector Matrix sync request returned.
+DEBUG asyncio Using proactor: IocpProactor
