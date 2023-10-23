@@ -1,7 +1,7 @@
 # Matrix PDF Bot
 a matrix bot for grabbing pdfs files from matrix rooms and spaces, 
 this functionality could be expanded to work with matrix based 
-applications such as populous in order to download and use the pdf for
+applications such as populus in order to download and use the pdf for
 other purposes
 
 ## Setup
